@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Back-End Dev <br>
+Im Front-End, DataBase <br>
 
 
 ## 🌐 Socials:
